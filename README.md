@@ -12,7 +12,7 @@ Jupyter notebooks for coding assignments in DX702 Experimental Design and Causal
 
 | Week | Topic | Notebook |
 |------|-------|---------|
-| Week 1 | Introduction to Regression and Matching | [View Notebook](https://github.com/jonaire-tate/dx702-experimental-design/blob/main/Week1/DX702_CodingQuiz_Week1.ipynb) |
+| Week 1 | Introduction to Regression and Matching | [View Notebook](https://github.com/jonaire-tate/dx702-experimental-design/blob/main/DX702_CodingQuiz_Week1.ipynb) |
 
 ## Tools Used
 - Python
